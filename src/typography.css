@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -51,3 +51,15 @@ input,
   line-height: 12px;
 }
 
+/* .search {
+  width: 15px;
+  height: 15px;
+  left: auto;
+  right: 22px;
+  top: 7px;
+  background-color: #ffffff00 !important;
+} */
+div.sc-iBkjds.bgZpAo{
+  background-color: #ffffff00!important;;
+
+}
